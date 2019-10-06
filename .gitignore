@@ -24,3 +24,5 @@ setup.log
 
 # opam switch
 _opam/
+
+*.csv
