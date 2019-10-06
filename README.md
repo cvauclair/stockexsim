@@ -14,4 +14,5 @@ Build: `$ dune build src/main.exe`
 Run
 ======================================
 Run: `./_build/default/src/main.exe`
+
 Output data will be found in `agents.csv` and `prices.csv`
