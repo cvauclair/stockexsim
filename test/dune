@@ -1,0 +1,4 @@
+(tests
+    (names exchange_test simulation_test)
+    (libraries stockexsim oUnit)
+)
